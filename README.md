@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor Bittencourt</h1>
 <h3 align="center">A passionate student fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vits015&label=Profile%20views&color=0e75b6&style=flat" alt="vits015" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vits015" alt="vits015" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vits015&label=Profile%20views&color=0e75b6&style=flat" alt="vits015" /> </p>
 
 - 🔭 I’m currently working on [SAEVIWEB](private)
 
