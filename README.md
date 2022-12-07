@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vits015&label=Profile%20views&color=0e75b6&style=flat" alt="vits015" /> </p>
 
-- 🔭 I’m currently working on [SAEVIWEB](private)
-
 - 🌱 I’m currently learning **FullStack Developer Javascript**
 
 - 💬 Ask me about **Delphi, Android, javascript, etc...**
