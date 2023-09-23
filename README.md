@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vitor Bittencourt</h1>
-<h3 align="center">A passionate student fullstack developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vits015&label=Profile%20views&color=0e75b6&style=flat" alt="vits015" /> </p>
 
-- 🌱 I’m currently learning **FullStack Developer Javascript**
+- 🌱 I’m currently learning **.Net + QA on DIO**
 
-- 💬 Ask me about **Delphi, Android, javascript, etc...**
+- 💬 Ask me about **Delphi, Android, .NET, C#, SQL javascript, etc...**
 
 - 📫 How to reach me **vitorleite015@gmail.com**
 
