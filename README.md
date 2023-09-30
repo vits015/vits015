@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Vitor Bittencourt</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,14,19,20,24,30&height=200&animation=fadeIn&section=header&text=Código é arte! &fontSize=50&fontAlignY=40" width="100%">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vits015&label=Profile%20views&color=0e75b6&style=flat" alt="vits015" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+end;Front+end;Mobile;Responsividade;Acessibilidade&size=30&center=true&width=1000)](https://git.io/typing-svg)
+<p>
+  Olá! Sou um apaixonado desenvolvedor de software com uma jornada que começou em 2019 e se estende até hoje. Minha paixão pela programação me levou a explorar uma variedade de linguagens e tecnologias, tornando-me um profissional versátil e experiente.
+  </p><p>
+  Minha jornada como desenvolvedor é caracterizada pelo compromisso com o aprendizado contínuo. Estou sempre buscando novos conhecimentos e desafios para me manter atualizado com as últimas tendências tecnológicas.
 
-- 🌱 I’m currently learning **.Net + QA on DIO**
+Além disso, sou um entusiasta de metodologias ágeis, como Scrum e Kanban. Acredito que essas abordagens colaborativas e orientadas para resultados são essenciais para entregar projetos de sucesso.
 
-- 💬 Ask me about **Delphi, Android, .NET, C#, SQL javascript, etc...**
-
-- 📫 How to reach me **vitorleite015@gmail.com**
-
-- ⚡ Fun fact **I like rollerblading**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vitor-bittencourt-55a917197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vitor-bittencourt-55a917197" height="30" width="40" /></a>
+Se você está interessado em colaborar, aprender ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas conexões e oportunidades!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</br>
+###🧠 Minhas habilidades
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vits015&show_icons=true&locale=en&layout=compact" alt="vits015" /></p>
+<b>C# e .NET:</b> Atualmente, estou mergulhando no mundo do C# e .NET, aprimorando minha habilidade de criar aplicativos Windows e web de alta qualidade.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vits015&show_icons=true&locale=en" alt="vits015" /></p>
+<b>Delphi Avançado:</b> Com mais de 5 anos de experiência, sou um especialista em Delphi e SQL, capaz de criar soluções eficientes e robustas.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vits015&" alt="vits015" /></p>
+<b>JavaScript e Java:</b> Tenho proficiência em JavaScript e Java, o que me permite desenvolver aplicativos e sistemas interativos.
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-leite-388731283/)
+
+### 💻 Tech Stack
+
+---
+
+**Estas são as tecnologias que já utilizei ou estou utilizando atualmente:**
+
+<br/>
+
+<div width="100%" align="center" style="display:flex;flex-direction:column">
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlserver-%2307405e.svg?style=for-the-badge&logo=sqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) [![Delphi](https://img.shields.io/badge/Delphi-red?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com/products/delphi) 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/) ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-green?style=for-the-badge&logo=agile&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div style="display: inline_block;" align="center">
+
+  <h3><p align="center">Total de visitas no perfil</p>
+  <p><center>⬇</center></p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/vits015/count.svg"/>
+</p>
 
