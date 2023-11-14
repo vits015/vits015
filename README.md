@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,14,19,20,24,30&height=200&animation=fadeIn&section=header&text=C%C3%B3digo%20%C3%A9%20Arte!&fontSize=50&fontAlignY=40" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,14,19,20,24,30&height=200&animation=fadeIn&section=header&text=Sic%20Parvis%20Magna&fontSize=50&fontAlignY=40" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+end;Front+end;Mobile;Responsividade;Acessibilidade&size=30&center=true&width=1000)](https://git.io/typing-svg)
 <p>
